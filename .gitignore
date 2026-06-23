@@ -1,0 +1,13 @@
+Pods/
+amplifyconfiguration.json
+awsconfiguration.json
+awsconfiguration
+# macOS Finder files
+.DS_Store
+**/.DS_Store
+
+# Xcode user-specific state files
+*.xcuserstate
+**/*.xcuserstate
+
+build/
